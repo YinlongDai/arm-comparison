@@ -40,14 +40,3 @@ This is a **kinematic visualization**. It does not model collision avoidance, pa
 ## Verification
 
 Run `python viewer.py --verify`. This checks forward kinematics against yourdfpy, analytic position Jacobians against finite differences, nearby reachable targets, position-and-orientation IK, joint limits, and clearly unreachable targets. Results are saved in `verification.json`.
-
-## Link to an empty GitHub repository
-
-Create an empty repository on GitHub without adding a README, license, or `.gitignore`. In Terminal, open this project folder and run the following, replacing `YOUR-NAME` and `YOUR-REPO` with your repository details:
-
-```sh
-git remote add origin https://github.com/YOUR-NAME/YOUR-REPO.git
-git push -u origin main
-```
-
-If `origin` already exists, change it with `git remote set-url origin https://github.com/YOUR-NAME/YOUR-REPO.git`. GitHub authentication must be configured for pushing; HTTPS uses a personal access token or credential manager, or you can use an SSH remote with a registered SSH key. Keep the included upstream model licenses and attribution when sharing the project.
