@@ -4,7 +4,7 @@ A local **Viser** program showing the three manufacturer robot models at the sam
 
 ## Open
 
-On this Mac, double-click **run.command**. It starts the local server and opens http://127.0.0.1:8080. First launch installs Python dependencies into a private environment in this folder. Leave its terminal open while using the viewer; press Control-C there to stop it.
+On **macOS**, install Python 3.12+ or `uv`, then double-click **run.command** in the downloaded or cloned project folder. It starts the local server and opens http://127.0.0.1:8080. First launch installs Python dependencies into a private environment in the project folder. Leave its terminal open while using the viewer; press Control-C there to stop it.
 
 On other systems, install Python 3.12+, create a virtual environment, install `requirements.txt`, then run `python viewer.py`. Visit http://127.0.0.1:8080 in a browser. You can select another port with `--port 8081`.
 
