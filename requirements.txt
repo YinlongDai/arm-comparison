@@ -1,0 +1,4 @@
+viser==1.1.1
+yourdfpy==0.0.60
+numpy==2.5.3
+scipy==1.18.1

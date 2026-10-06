@@ -1,0 +1,23 @@
+[
+  {
+    "name": "piper",
+    "repository": "https://github.com/agilexrobotics/agx_arm_urdf",
+    "commit": "f6642ce0d7872c686f29c99e9e10cd23d1d49313",
+    "prefix": "piper/",
+    "git_tree": "e78a1d1a42000964eca4ac88778724816a81d107"
+  },
+  {
+    "name": "b601_rs",
+    "repository": "https://github.com/Seeed-Projects/reBot-DevArm",
+    "commit": "a2d1a33d3f4c7b9fae5ccfc8e505ce592b90af70",
+    "prefix": "Rebot_Arm_description/RS/",
+    "git_tree": "9dc68d5e3a0242bf0fd3a471d9df3478b0962c12"
+  },
+  {
+    "name": "yam",
+    "repository": "https://github.com/i2rt-robotics/i2rt",
+    "commit": "120c3c81400171174604e503943f8d1ebc891058",
+    "prefix": "i2rt/robot_models/arm/yam/v1/",
+    "git_tree": "cf656c954941b494d4056fd1a909725ad64df3a2"
+  }
+]

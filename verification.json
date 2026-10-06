@@ -1,0 +1,32 @@
+[
+  {
+    "robot": "AgileX PiPER",
+    "fk_max_error": 1.3322676295501878e-15,
+    "jacobian_max_error": 3.0399233391653624e-07,
+    "position_ik_max_error_mm": 0.0001592559562541899,
+    "pose_ik_error_mm": 2.993899240671719e-05,
+    "pose_ik_rotation_error_deg": 2.399503833590964e-05,
+    "median_solve_ms": 2.103750011883676,
+    "unreachable_error_m": 7.819603515796869
+  },
+  {
+    "robot": "Seeed B601-RS",
+    "fk_max_error": 5.551115123125783e-16,
+    "jacobian_max_error": 2.9438889206576113e-07,
+    "position_ik_max_error_mm": 0.00020901622556753673,
+    "pose_ik_error_mm": 4.2650130595236685e-05,
+    "pose_ik_rotation_error_deg": 2.9004560669647227e-05,
+    "median_solve_ms": 0.9591670241206884,
+    "unreachable_error_m": 7.796461213669631
+  },
+  {
+    "robot": "I2RT YAM",
+    "fk_max_error": 6.661338147750939e-16,
+    "jacobian_max_error": 3.3483736061601377e-07,
+    "position_ik_max_error_mm": 0.00029681846717225755,
+    "pose_ik_error_mm": 5.079951063292512e-05,
+    "pose_ik_rotation_error_deg": 2.5435120825675453e-05,
+    "median_solve_ms": 1.3970829895697534,
+    "unreachable_error_m": 7.853077268902471
+  }
+]
